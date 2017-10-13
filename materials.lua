@@ -15,6 +15,7 @@ simple_nodes = {
     {"vertical stone bricks" , "vertical_stone_bricks", "bricks_vertical_stone", ""},
     {"tiled blocks"  , "tiled_blocks"  , "tiled_blocks"  , ""},
     {"rusty concrete", "rusty_concrete", "rusty_concrete_wall"  , "concrete"},
+    {"tiled blocks2"  , "tiled_blocks2"  , "tiled_blocks"  , "concrete"},
 }
 
 -- generate nodes
