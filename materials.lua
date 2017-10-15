@@ -7,15 +7,54 @@ local simple_nodes = {}
 
 -- format: node description, node name, node side texture, node up and down texture
 simple_nodes = {
-    {"blue bricks"   , "blue_bricks"   , "bricks_blue"   , ""},
-    {"chipped bricks", "chipped_bricks", "bricks_chipped", ""},
+    {"blue bricks"      , "blue_bricks"   , "bricks_blue"   , ""},
+    {"chipped bricks"   , "chipped_bricks", "bricks_chipped", ""},
     {"dark green bricks", "dark_green_bricks", "bricks_dark_green", ""},
-    {"oblique bricks", "oblique_bricks", "bricks_oblique", ""},
-    {"square bricks" , "square_bricks", "bricks_square", ""},
+    {"oblique bricks"   , "oblique_bricks", "bricks_oblique", ""},
+    {"square bricks"    , "square_bricks", "bricks_square", ""},
     {"vertical stone bricks" , "vertical_stone_bricks", "bricks_vertical_stone", ""},
+
     {"tiled blocks"  , "tiled_blocks"  , "tiled_blocks"  , ""},
     {"rusty concrete", "rusty_concrete", "rusty_concrete_wall"  , "concrete"},
-    {"tiled blocks2"  , "tiled_blocks2"  , "tiled_blocks"  , "concrete"},
+
+    {"blue cobble" , "blue_cobble", "cobble_blue", ""},
+    {"color cobble", "color_cobble", "cobble_color", ""},
+
+    {"copper plates" , "copper_plates", "plates_copper", ""},
+    {"hexagon plates", "hexagon_plates", "plates_hexagon", ""},
+    {"romboid plates", "romboid_plates", "plates_romboids", ""},
+
+    {"decorative circles"   , "decorative_circles", "decorative_circles", ""},
+    {"decorative rectangles", "decorative_rectangles", "decorative_rectangles", ""},
+
+    {"brown marble"          , "brown_marble", "marble_brown", ""},
+    {"white and brown marble", "wb_marble", "marble_white_brown", ""},
+
+    {"bolted metal"      , "bolted_metal", "metal_bolted", ""},
+    {"metal rusted plate", "metal_rusted_plate", "metal_rusted_plate", ""},
+    {"rusty metal"       , "rusty_metal", "metal_rusty", ""},
+
+    {"blue and white mosaic"   , "mosaic_blue_white", "mosaic_blue_white", ""},
+    {"diamonds mosaic"         , "diamonds_mosaic", "mosaic_diamonds", ""},
+    {"green squares mosaic"    , "green_squares_mosaic", "mosaic_green_squares", ""},
+    {"sun mosaic"              , "mosaic_sun", "sun_mosaic", ""},
+    {"black and white mosaic"  , "bw_mosaic", "mosaic_bw", ""},
+
+    {"mossy damaged concrete", "mossy_damaged_concrete", "mossy_damaged_concrete", ""},
+    {"mossy tiles"           , "mossy_tiles", "mossy_tiles", ""},
+    {"mossy bricks"          , "mossy_bricks", "mossy_bricks", ""},
+
+    {"basalt stones"      , "basalt_stones", "stone_basalt", ""},
+    {"damaged brown stone", "damaged_brown_stone", "stone_brown_damaged", ""},
+    {"brown stones"       , "brown_stones", "stone_brown", ""},
+    {"colored stones"     , "colored_stones", "stone_colored", ""},
+    {"composite stones"   , "composite_stones", "stone_composite", ""},
+    {"grassy stones 1"    , "grassy_stones_1", "stone_grassy_1", ""},
+    {"grassy stones 2"    , "grassy_stones_2", "stone_grassy_2", ""},
+    {"circular stone"     , "circular_stones", "stone_circular", ""},
+    {"tundra stone"       , "tundra_stone", "stone_tundra", ""},
+
+    {"wall with plants", "wall_plants", "wall_plants", ""},
 }
 
 -- generate nodes
