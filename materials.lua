@@ -36,8 +36,8 @@ simple_nodes = {
 
     {"blue and white mosaic"   , "mosaic_blue_white", "mosaic_blue_white", ""},
     {"diamonds mosaic"         , "diamonds_mosaic", "mosaic_diamonds", ""},
-    {"green squares mosaic"    , "green_squares_mosaic", "mosaic_green_squares", ""},
-    {"sun mosaic"              , "mosaic_sun", "sun_mosaic", ""},
+    {"green squares mosaic"    , "green_squares_mosaic", "mosaic_squares_green", ""},
+    {"sun mosaic"              , "sun_mosaic", "mosaic_sun", ""},
     {"black and white mosaic"  , "bw_mosaic", "mosaic_bw", ""},
 
     {"mossy damaged concrete", "mossy_damaged_concrete", "mossy_damaged_concrete", ""},
@@ -51,7 +51,7 @@ simple_nodes = {
     {"composite stones"   , "composite_stones", "stone_composite", ""},
     {"grassy stones 1"    , "grassy_stones_1", "stone_grassy_1", ""},
     {"grassy stones 2"    , "grassy_stones_2", "stone_grassy_2", ""},
-    {"circular stone"     , "circular_stones", "stone_circular", ""},
+    {"circular stones"    , "circular_stones", "stone_circular", ""},
     {"tundra stone"       , "tundra_stone", "stone_tundra", ""},
 
     {"wall with plants", "wall_plants", "wall_plants", ""},
